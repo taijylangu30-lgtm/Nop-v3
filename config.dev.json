@@ -13,21 +13,20 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "§Bachįra-bøt☮️",
+  "nickNameBot": "ʚ🌸𝘊𝘰𝘳𝘵𝘦𝘹 𝘚𝘩𝘢𝘥𝘦🌸ɞ",
   "prefix": "¢",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61561648169981",
+    "61573867120837",
 
     ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61561648169981",
-"6823853694334271",
+    "whiteListIds": ["61573867120837",
       ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
@@ -48,7 +47,7 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "messengerbot61@gamil.com",
+      "email": "shadecortex@gmail.com",
       "clientId": "552344212361-ujv8mjve7ue0r20t5caem9a41o8il508.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04KHgkn8_-_PfCgYIARAAGAQSNwF-L9Iro-cV9UkOYQjg6noVALzdmrnrL8rijCPS96WGrKoflqLkXr76iZiXezLunTbJAU1AxS4",
