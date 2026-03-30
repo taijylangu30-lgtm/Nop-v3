@@ -14,7 +14,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "ʚ🌸𝘊𝘰𝘳𝘵𝘦𝘹 𝘚𝘩𝘢𝘥𝘦🌸ɞ",
-  "prefix": "¢",
+  "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
